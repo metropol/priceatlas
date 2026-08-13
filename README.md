@@ -58,7 +58,7 @@ else works without it.
 - **Access:** the current private beta build, delivered by email within
   24 hours of purchase.
 - **Version 1.0:** included at no additional cost when it ships.
-- **Shipping guarantee:** if version 1.0 has not shipped by Dec 31, 2026
+- **Shipping guarantee:** if version 1.0 has not shipped by Dec 15, 2026
   a full refund on request.
 - **Refunds:** full refund on request within 30 days, no questions.
   Email support@atelierartisanaldigital.com.
