@@ -54,7 +54,7 @@ else works without it.
 
 ## What a founding licence includes
 
-- **Price:** CA$99, one time. Not a subscription.
+- **Price:** US$71, one time. Not a subscription.
 - **Access:** the current private beta build, delivered by email within
   24 hours of purchase.
 - **Version 1.0:** included at no additional cost when it ships.
