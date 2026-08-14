@@ -7,6 +7,8 @@ PriceAtlas computes purchasing-power-adjusted price recommendations
 across App Store regional storefronts and produces a reviewable report.
 The developer reviews the report and decides what to change.
 
+[Privacy Policy](PRIVACY.md) · [Terms of Service](TERMS.md) · Support: support@atelierartisanaldigital.com
+
 ## Status
 
 Paid private beta. Access is by invitation only — there is no public
