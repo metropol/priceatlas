@@ -25,7 +25,7 @@ Contact: **support@atelierartisanaldigital.com**
 
 PriceAtlas is a command-line tool for macOS, aimed at independent developers who sell applications internationally. It computes purchasing-power-adjusted price recommendations across App Store regional storefronts and produces a report for you to review.
 
-PriceAtlas can optionally read prices from, and write approved prices to, your own App Store Connect account by invoking **asccli** (https://asccli.sh), a free third-party tool you install and authenticate separately. PriceAtlas has no server component and never receives, stores, or transmits your Apple Developer credentials.
+PriceAtlas can optionally download your current per-storefront prices from your own App Store Connect account, and upload prices you have approved, by invoking **asccli** (https://asccli.sh), a free third-party tool you install and authenticate separately. PriceAtlas has no server component and never receives, stores, or transmits your Apple Developer credentials.
 
 ---
 
