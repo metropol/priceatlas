@@ -15,7 +15,7 @@ These terms govern your purchase and use of PriceAtlas. By buying a licence or u
 
 PriceAtlas is published by **Ugo Di Profio**, operating as **Atelier Artisanal Digital**, a sole proprietorship in Montréal, Quebec, Canada ("we", "us").
 
-Payments are processed by **Creem**, which acts as the **merchant of record** and seller of record for your purchase. Creem's own terms apply to the payment transaction: https://www.creem.io/legal/terms
+Payments are processed by **Creem**, which acts as the **merchant of record** and seller of record for your purchase. Creem's own terms apply to the payment transaction: https://www.creem.io/terms/v1
 
 Contact: **support@atelierartisanaldigital.com**
 
