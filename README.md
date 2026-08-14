@@ -50,9 +50,11 @@ the tool is finished.
 
 macOS. Command line.
 
-App Store Connect features are optional and require asccli
-(https://asccli.sh) installed and authenticated separately. Everything
-else works without it.
+Two optional operations — downloading your current per-storefront prices
+from App Store Connect, and uploading prices you have approved — require
+asccli (https://asccli.sh), installed and authenticated separately.
+Everything else, including all calculation and review, works without it.
+macOS. Command line.
 
 ## What a founding licence includes
 
